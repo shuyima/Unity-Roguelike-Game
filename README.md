@@ -37,4 +37,7 @@
 - **语言**：C#
 - **核心模块**：Unity 2D 物理 / 程序化生成 / BFS / Prim / 事件总线 / 回合制系统
 
-## 📁 项目结构
+<img width="851" height="920" alt="屏幕截图 2026-09-17 174032" src="https://github.com/user-attachments/assets/9b917c87-5258-4332-a351-1adbfe328073" />
+
+
+
